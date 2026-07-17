@@ -19,7 +19,7 @@ Mobile-first interactive guide for a six-day self-drive trip from Delft to Chamo
 
 ## Itinerary
 
-Delft → Verzenay → Troyes → Lac de Nantua → Chamonix (2 nights) → Lac Blanc → Aiguille du Midi → Annecy → Cascades du Hérisson → Baume-les-Messieurs → Langres → Lac des Vieilles-Forges → Delft
+Delft → Furfooz Nature Reserve → Lac du Der → Lac de Nantua → Chamonix (2 nights) → Lac Blanc → Aiguille du Midi → Annecy → Cascades du Hérisson → Baume-les-Messieurs → Langres → Lac des Vieilles-Forges → Delft
 
 ## Deployment
 
