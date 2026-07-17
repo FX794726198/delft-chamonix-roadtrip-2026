@@ -1,6 +1,6 @@
 # Delft–Chamonix Road Trip 2026
 
-Mobile-first interactive guide for a six-day self-drive trip from Delft to Chamonix and back, 24–29 July 2026, including one full hiking day.
+Mobile-first interactive guide for a six-day trip from Delft to Chamonix and back, with car pickup and return in Rotterdam, 24–29 July 2026, including one full hiking day.
 
 ## 🗺️ [点这里打开交互式地图](https://fx794726198.github.io/delft-chamonix-roadtrip-2026/)
 
@@ -19,7 +19,9 @@ Mobile-first interactive guide for a six-day self-drive trip from Delft to Chamo
 
 ## Itinerary
 
-Delft → Upper Sûre Nature Park → Lac de Chalain → Lac de Nantua → Chamonix (2 nights) → Lac Blanc → Aiguille du Midi → Annecy → Cascades du Hérisson → Baume-les-Messieurs → Langres → Lac des Vieilles-Forges → Delft
+Delft (train) → Rotterdam car rental → Lac de la Plate Taille → Lac de Panthier / Châteauneuf-en-Auxois → Lac de Nantua → Chamonix (2 nights) → Lac Blanc → Aiguille du Midi → Annecy → Cascades du Hérisson → Baume-les-Messieurs → Langres → Lac des Vieilles-Forges → Rotterdam car return → Delft (train)
+
+Day 1 driving starts at 10:30 from the actual Rotterdam rental branch. The map uses Rotterdam Centraal as a provisional marker until the booked branch address is known.
 
 ## Deployment
 
