@@ -2,7 +2,7 @@
 
 All destination photos were downloaded from Wikimedia Commons and cropped to 16:9 for the travel guide.
 
-- **rotterdam** — [File:20180225 004 Rotterdam - Centraal Station.jpg](https://commons.wikimedia.org/wiki/File:20180225_004_Rotterdam_-_Centraal_Station.jpg); author: Sjaak Kempe; license: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Cropped to 16:9 and resized; no other material changes.
+- **schiphol** — [File:AMS terminal 1.jpg](https://commons.wikimedia.org/wiki/File:AMS_terminal_1.jpg); author: Andrzej Otrębski; license: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Cropped to 16:9 and resized; no other material changes.
 - **eauheure** — [File:Lac de la Plate Taille (DSC02373).jpg](https://commons.wikimedia.org/wiki/File:Lac_de_la_Plate_Taille_(DSC02373).jpg); author: Trougnouf (Benoit Brummer); license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Cropped to 16:9 and resized; no other material changes.
 - **panthier** — [File:Réservoir de Panthier DSC 0333.JPG](https://commons.wikimedia.org/wiki/File:R%C3%A9servoir_de_Panthier_DSC_0333.JPG); author: Pline; license: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Cropped to 16:9 and resized; no other material changes.
 - **beaune** — [File:Burgundy Vineyards, Cote d'Or, Beaune, France.jpg](https://commons.wikimedia.org/wiki/File:Burgundy_Vineyards,_Cote_d%27Or,_Beaune,_France.jpg); author: Sheri; license: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Cropped to 16:9 and resized; no other material changes.

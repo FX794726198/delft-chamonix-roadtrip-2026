@@ -1,6 +1,6 @@
 # Delft–Chamonix Road Trip 2026
 
-Mobile-first interactive guide for a six-day trip from Delft to Chamonix and back, with car pickup and return in Rotterdam, 24–29 July 2026, including one full hiking day, four booked stays and turn-by-turn driving-leg links.
+Mobile-first interactive guide for a six-day trip from Delft to Chamonix and back, with car pickup and return at Amsterdam Airport Schiphol, 24–29 July 2026, including one full hiking day, four booked stays and turn-by-turn driving-leg links.
 
 ## 🗺️ [点这里打开交互式地图](https://fx794726198.github.io/delft-chamonix-roadtrip-2026/)
 
@@ -22,9 +22,9 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 
 ## Itinerary
 
-Delft (train) → Rotterdam car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Lac Blanc → Aiguille du Midi → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Rotterdam car return → Delft (train)
+Delft (train) → Amsterdam Airport Schiphol car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Lac Blanc → Aiguille du Midi → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Amsterdam Airport Schiphol car return → Delft (train)
 
-Day 1 driving starts at 10:30 from the actual Rotterdam rental branch. The map uses Rotterdam Centraal as a provisional marker until the booked branch address is known.
+Day 1 driving starts at 10:30 from Amsterdam Airport Schiphol. The official airport guidance places the rental desks in Schiphol Plaza; on Day 6, follow the A4 airport exit and on-site Car Rental Return signs to the booked company's return area.
 
 ## Deployment
 
