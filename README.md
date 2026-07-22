@@ -1,6 +1,6 @@
 # Delft–Chamonix Road Trip 2026
 
-Mobile-first interactive guide for a six-day trip from Delft to Chamonix and back, with car pickup and return in Rotterdam, 24–29 July 2026, including one full hiking day.
+Mobile-first interactive guide for a six-day trip from Delft to Chamonix and back, with car pickup and return in Rotterdam, 24–29 July 2026, including one full hiking day, four booked stays and turn-by-turn driving-leg links.
 
 ## 🗺️ [点这里打开交互式地图](https://fx794726198.github.io/delft-chamonix-roadtrip-2026/)
 
@@ -10,16 +10,19 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 
 - Satellite imagery with place names and administrative boundaries
 - Topographic and hillshade alternatives
-- Six colour-coded routes and 12 clickable stops
+- Six colour-coded routes and 13 clickable stops
 - A full no-driving hiking day for Flégère–Lac Blanc
-- Chinese schedules, parking notes, walking plans, weather fallbacks and official links
-- Google Maps deep links for each stop and each day
+- Four booked-stay cards with check-in, check-out, parking and sanitized public booking links
+- Detailed Chamonix schedules for the Flégère cable car, Lac Blanc trail and Aiguille du Midi
+- A short no-tasting Burgundy red-wine shopping stop in Beaune
+- Chinese hour-by-hour schedules, parking notes, walking plans, weather fallbacks and official links
+- Google Maps deep links for every time the car departs, plus each stop and each day
 - Installable PWA with offline caching for the page, route data and destination photos
 - Locally stored, attributed Wikimedia Commons destination photos
 
 ## Itinerary
 
-Delft (train) → Rotterdam car rental → Lac de la Plate Taille → Lac de Panthier / Châteauneuf-en-Auxois → Lac de Nantua → Chamonix (2 nights) → Lac Blanc → Aiguille du Midi → Annecy → Cascades du Hérisson → Baume-les-Messieurs → Langres → Lac des Vieilles-Forges → Rotterdam car return → Delft (train)
+Delft (train) → Rotterdam car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Lac Blanc → Aiguille du Midi → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Rotterdam car return → Delft (train)
 
 Day 1 driving starts at 10:30 from the actual Rotterdam rental branch. The map uses Rotterdam Centraal as a provisional marker until the booked branch address is known.
 
