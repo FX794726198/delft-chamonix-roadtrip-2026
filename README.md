@@ -10,20 +10,20 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 
 - Satellite imagery with place names and administrative boundaries
 - Topographic and hillshade alternatives
-- Six colour-coded routes, 13 clickable stops and the official Reims/Annecy low-emission-zone boundaries
-- A separate Flégère–Lac Blanc trail map built from the official GPX, with elevation profile, checkpoints and return-decision gates
+- Six colour-coded routes, 14 clickable stops and the official Reims/Annecy low-emission-zone boundaries
+- A separate afternoon Flégère–Lac Blanc trail map built from the official GPX, with elevation profile, checkpoints, a 14:25 turnaround and go/no-go gates after Aiguille du Midi
 - Five route-aware fuel stops with direct navigation links
 - Four booked-stay cards with check-in, check-out, parking and sanitized public booking links
-- Detailed Chamonix schedules for the Flégère cable car, Lac Blanc trail and Aiguille du Midi
+- Detailed Chamonix schedules for the 07:30 Aiguille du Midi ascent, afternoon Lac Blanc trail, Montenvers ice cave and optional Grand Balcon Nord
 - A short no-tasting Burgundy red-wine shopping stop in Beaune
 - Chinese hour-by-hour schedules, parking notes, walking plans, weather fallbacks and official links
 - Google Maps deep links for every time the car departs, plus each stop and each day
 - Installable PWA with offline caching for the page, route data and destination photos
-- 27 locally stored, attributed Wikimedia Commons destination photos, with a gallery at every stop
+- 29 locally stored, attributed Wikimedia Commons destination photos, with a gallery at every stop
 
 ## Itinerary
 
-Delft (train) → Amsterdam Airport Schiphol car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Lac Blanc → Aiguille du Midi → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Amsterdam Airport Schiphol car return → Delft (train)
+Delft (train) → Amsterdam Airport Schiphol car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Aiguille du Midi → Lac Blanc → Montenvers / Mer de Glace ice cave → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Amsterdam Airport Schiphol car return → Delft (train)
 
 Day 1 driving starts at 10:30 from Amsterdam Airport Schiphol. The official airport guidance places the rental desks in Schiphol Plaza; on Day 6, follow the A4 airport exit and on-site Car Rental Return signs to the booked company's return area.
 
