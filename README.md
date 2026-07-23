@@ -10,15 +10,16 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 
 - Satellite imagery with place names and administrative boundaries
 - Topographic and hillshade alternatives
-- Six colour-coded routes and 13 clickable stops
-- A full no-driving hiking day for Flégère–Lac Blanc
+- Six colour-coded routes, 13 clickable stops and the official Reims/Annecy low-emission-zone boundaries
+- A separate Flégère–Lac Blanc trail map built from the official GPX, with elevation profile, checkpoints and return-decision gates
+- Five route-aware fuel stops with direct navigation links
 - Four booked-stay cards with check-in, check-out, parking and sanitized public booking links
 - Detailed Chamonix schedules for the Flégère cable car, Lac Blanc trail and Aiguille du Midi
 - A short no-tasting Burgundy red-wine shopping stop in Beaune
 - Chinese hour-by-hour schedules, parking notes, walking plans, weather fallbacks and official links
 - Google Maps deep links for every time the car departs, plus each stop and each day
 - Installable PWA with offline caching for the page, route data and destination photos
-- Locally stored, attributed Wikimedia Commons destination photos
+- 27 locally stored, attributed Wikimedia Commons destination photos, with a gallery at every stop
 
 ## Itinerary
 
