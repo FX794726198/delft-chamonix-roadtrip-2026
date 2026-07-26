@@ -11,10 +11,10 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 - Satellite imagery with place names and administrative boundaries
 - Topographic and hillshade alternatives
 - Six colour-coded routes, 14 clickable stops and the official Reims/Annecy low-emission-zone boundaries
-- A separate Monday-morning Flégère–Lac Blanc trail map built from the official GPX, with elevation profile, checkpoints, a 10:55 turnaround and an 08:00 weather/operations go-no-go gate
+- A separate Monday-morning Index–Lac Blanc–Flégère one-way trail map built from two official GPX tracks, with an elevation profile, ten checkpoints, and 08:00/08:35 weather and lift-operation gates
 - Five route-aware fuel stops with direct navigation links
 - Four booked-stay cards with check-in, check-out, parking and sanitized public booking links
-- Weather-adapted Chamonix schedules: conditional 07:30 Aiguille du Midi and afternoon Montenvers ice cave on Sunday, then first-lift Lac Blanc hiking on Monday
+- Weather-adapted Chamonix schedules: conditional 07:30 Aiguille du Midi and afternoon Montenvers ice cave on Sunday, then Flégère gondola → Index chairlift → Lac Blanc → direct Flégère descent on Monday
 - A short no-tasting Burgundy red-wine shopping stop in Beaune
 - Chinese hour-by-hour schedules, parking notes, walking plans, weather fallbacks and official links
 - Google Maps deep links for every time the car departs, plus each stop and each day
@@ -25,7 +25,7 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 
 Delft (train) → Amsterdam Airport Schiphol car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Aiguille du Midi → Montenvers / Mer de Glace ice cave → Lac Blanc → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Amsterdam Airport Schiphol car return → Delft (train)
 
-The Chamonix order was updated on 25 July using the official forecast: Sunday keeps Aiguille du Midi only if live operations confirm opening, replaces the wet afternoon Lac Blanc hike with Montenvers, and moves Lac Blanc to the clearer Monday morning window.
+The Chamonix order was updated using the official forecast: Sunday keeps Aiguille du Midi only if live operations confirm opening, replaces the wet afternoon Lac Blanc hike with Montenvers, and moves Lac Blanc to Monday morning. The final hike uses the higher Index start and descends directly to Flégère without the Chéserys ladders.
 
 Day 1 driving starts at 10:30 from Amsterdam Airport Schiphol. The official airport guidance places the rental desks in Schiphol Plaza; on Day 6, follow the A4 airport exit and on-site Car Rental Return signs to the booked company's return area.
 

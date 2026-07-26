@@ -1,4 +1,4 @@
-const STATIC_CACHE = "chamonix-roadtrip-single-v10";
+const STATIC_CACHE = "chamonix-roadtrip-single-v11";
 const TILE_CACHE = "roadtrip-map-tiles-v1";
 const STATIC_ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
