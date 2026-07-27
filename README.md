@@ -18,15 +18,18 @@ Mobile-first interactive guide for a six-day trip from Delft to Chamonix and bac
 - Weather-adapted Chamonix schedules: conditional 07:30 Aiguille du Midi and afternoon Montenvers ice cave on Sunday, then Flégère gondola → Index chairlift → Lac Blanc → direct Flégère descent → conditional 15:00 Aiguille return on Monday
 - A short no-tasting Burgundy red-wine shopping stop in Beaune
 - Chinese hour-by-hour schedules, parking notes, walking plans, weather fallbacks and official links
+- A weather-aware 28 July plan: Annecy Tuesday market and lakefront picnic brunch, an all-France drive via Valserhône and Saint-Claude, the official 7.4 km Hérisson out-and-back with waterfall-by-waterfall checkpoints, and a hard 19:30 Langres arrival target
 - Google Maps deep links for every time the car departs, plus each stop and each day
 - Installable PWA with offline caching for the page, route data and destination photos
 - 29 locally stored, attributed Wikimedia Commons destination photos, with a gallery at every stop
 
 ## Itinerary
 
-Delft (train) → Amsterdam Airport Schiphol car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Aiguille du Midi → Montenvers / Mer de Glace ice cave → Index / Lac Blanc → conditional return to Aiguille du Midi → Hôtel des Alpes Annecy → Cascades du Hérisson → Baume-les-Messieurs → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Amsterdam Airport Schiphol car return → Delft (train)
+Delft (train) → Amsterdam Airport Schiphol car rental → Lac de la Plate Taille → Lac de Panthier → Hotel Val Vert → Beaune wine shop → Lac de Nantua → Hotel Les Lanchers (2 nights) → Aiguille du Midi → Montenvers / Mer de Glace ice cave → Index / Lac Blanc → conditional return to Aiguille du Midi → Hôtel des Alpes Annecy → Annecy Tuesday market and lakefront brunch → Valserhône → Saint-Claude → Cascades du Hérisson → LA LOGE des JACOBINS Langres → Lac des Vieilles-Forges → Amsterdam Airport Schiphol car return → Delft (train)
 
 The Chamonix order was updated using the official forecast: Sunday keeps Aiguille du Midi only if live operations confirm opening, replaces the wet afternoon Lac Blanc hike with Montenvers, and moves Lac Blanc to Monday morning. The final hike uses the higher Index start and descends directly to Flégère without the Chéserys ladders. A second Aiguille visit is attempted only with a confirmed 15:00 reservation, normal operations, useful visibility, a return to the Flégère car park by 14:00, and no post-hike symptoms or unsafe fatigue.
+
+The 28 July return leg is reverse-planned from the requested 19:30 Langres arrival. Annecy uses an early market picnic brunch so the car can leave by 10:35. The driving link forces an all-France route via Valserhône and Saint-Claude because a default fastest route may enter Switzerland. Hérisson follows the official 7.4 km, roughly +250 m, three-hour out-and-back; 14:55 is the hard turnaround and 17:00 is the absolute latest departure from the car park. Baume-les-Messieurs is explicitly removed from the active route.
 
 Day 1 driving starts at 10:30 from Amsterdam Airport Schiphol. The official airport guidance places the rental desks in Schiphol Plaza; on Day 6, follow the A4 airport exit and on-site Car Rental Return signs to the booked company's return area.
 
